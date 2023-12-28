@@ -1,2 +1,2 @@
 # cia
-Mission 23’s Central Intelligence Agency Evidence Repository 
+this repository holds information about the central intelligence agency, a us-based company based in langley, virginia. 
